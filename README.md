@@ -12,13 +12,13 @@ Goal : To demonstrate my research
 # How to Run the Simulation :
 
 1. Download and install NetLogo 7.0.1 from (https://ccl.northwestern.edu/netlogo/download.shtml).
-2. Open `simulation.nlogo` in NetLogo.
+2. Open 'Data Drift Simulation.nlogox' in NetLogo.
 3. Use the interface to run the simulation and observe the results.
 
-## 📜 License
+# License :
 
 This project is shared for academic review purposes only. Redistribution or reuse is not permitted without explicit permission.
 
-## 📬 Contact
+# Contact :
 
-For feedback or review inquiries, please contact me via GitHub or email: [your email here]
+For feedback or review inquiries, please contact me via GitHub or email: aimanshahid061@gmail.com
